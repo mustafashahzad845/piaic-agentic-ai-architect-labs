@@ -1,0 +1,7 @@
+Delegation Loop
+define, delegate, observe, intervene, verify, accept
+Delegation Brief
+Outcome, context, constraints, authority, deliverable, verification.
+
+Verification Every Time
+ai ko kabhi bhi koi kaam denge tou us se prov mange ge aur usko khud verify karenge ai k response ko 
